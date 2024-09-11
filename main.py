@@ -55,7 +55,16 @@ def main():
         elif escolha == 9:
             pass
         elif escolha == 10:
-            pass
+            print("1. Scooby doo")
+            print("2. O Clube dos Cinco")
+            print("3. A Verdade Nua e Crua")
+            print("4. O Homem que Sabia Demais")
+            print("5. O Enigma do Outro Mundo")
+            print("6. Um lugar silenciosa")
+            print("7. Memento")
+            print("8. Briquedo Asass")
+            print("9. Knives Out: Entre Facas e Segredos 2019")
+            print("10. A Garota no Treem")
         elif escolha == 11:
             pass
         elif escolha == 12:
