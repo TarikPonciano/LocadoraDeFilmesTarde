@@ -7,7 +7,7 @@ def exibir_menu():
     print("5. Ficção Científica")
     print("6. Fantasia")
     print("7. Romance")
-    print("8. Terror:")
+    print("8. Terror")
     print("9. Suspense")
     print("10. Mistério")
     print("11. Documentário")
@@ -40,7 +40,18 @@ def main():
         elif escolha == 7:
             pass
         elif escolha == 8:
-            pass
+
+            print(f'''1 - O Exorcista
+2 - Psicose
+3 - O Iluminado
+4 - A Bruxa de Blair
+5 - O Massacre da Serra Elétrica
+6 - Hereditário
+7 - Atividade Paranormal
+8 - O Bebê de Rosemary
+9 - A Noite dos Mortos-Vivos
+10 - It: A Coisa''')
+            
         elif escolha == 9:
             pass
         elif escolha == 10:
