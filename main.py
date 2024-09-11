@@ -39,7 +39,7 @@ def main():
             print('''
 1.  O Senhor dos Anéis: A sociedade do anel
 2.  O Hobbit: Uma viagem inesperada
-3.  Harry potter e a pedra de Crack
+3.  Harry potter e a pedra filosofal
 4.  As Crônicas de Nárnia: O leão, a Feiticeira e o Guarda-roupa
 5.  Alice no País das Maravilhas
 6.  A Bússula de Ouro
