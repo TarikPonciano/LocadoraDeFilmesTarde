@@ -46,6 +46,16 @@ def main():
         elif escolha == 10:
             pass
         elif escolha == 11:
+            print("O Apartheid na África do Sul")
+            print("13ª Emenda (13th)")
+            print("O Céu de Outubro")
+            print("Won't You Be My Neighbor?")
+            print("Grizzly Man")
+            print("Jiro Dreams of Sushi")
+            print("Free Solo")
+            print("O Dilema das Redes")
+            print("O Enigma do Horizonte")
+            print("13th")
             pass
         elif escolha == 12:
             pass
