@@ -32,6 +32,9 @@ def main():
         elif escolha == 3:
             pass
         elif escolha == 4:
+            drama = ['Sociedade dos Poetas Mortos', 'Mãos Talentosas', 'O Nome da Rosa', 'Gran Torino', 'Forrest Gump', 'Coração Valente', 'Shawshank Redemption', 'Gênio Indomável']
+            for i in drama:
+            print(i)
             pass
         elif escolha == 5:
             pass
