@@ -54,6 +54,77 @@ def main():
         elif escolha == 14:
             pass
         elif escolha == 15:
+            filmes_de_guerra = print('''
+                                     
+            Título: O Resgate do Soldado Ryan (1998)
+            ---------------------------------------------------------------------------------------
+            Sinopse: Durante a Segunda Guerra Mundial, 
+            um grupo de soldados americanos é enviado para encontrar 
+            e resgatar um paraquedista cujos irmãos foram mortos em combate.
+                                     
+   
+            Título: Dunkerque (2017)
+            ---------------------------------------------------------------------------------------
+            Sinopse: Baseado na evacuação de Dunkirk em 1940, 
+            o filme retrata a luta desesperada de soldados 
+            britânicos e aliados para escapar das forças alemãs que os cercam.
+   
+                                     
+            Título: A Lista de Schindler (1993)
+            --------------------------------------------------------------------------------------
+            Sinopse: A história real de Oskar Schindler, 
+            um empresário que salvou mais de mil judeus durante o Holocausto, 
+            comprando-os como trabalhadores para suas fábricas.
+            
+  
+            Título: Até o Último Homem (2016)
+            --------------------------------------------------------------------------------------
+            Sinopse: Baseado na verdadeira história de Desmond Doss, 
+            um objetor de consciência que, sem portar armas, 
+            salvou 75 homens durante a Batalha de Okinawa na Segunda Guerra Mundial.
+                                     
+
+            Título: Corações de Ferro (2014)
+            --------------------------------------------------------------------------------------
+            Sinopse: Durante os últimos dias da Segunda Guerra Mundial,
+            um sargento de tanque e sua equipe enfrentam desafios 
+            extremos enquanto lutam contra forças alemãs."
+    
+                                     
+            Título: Falcão Negro em Perigo (2001)
+            --------------------------------------------------------------------------------------
+            Sinopse: Retrata a batalha de Mogadíscio, na Somália, 
+            onde forças especiais americanas enfrentaram uma resistência feroz 
+            durante uma missão de captura de líderes rebeldes.
+                                     
+    
+            Título: O Jogo da Imitação (2014)
+            --------------------------------------------------------------------------------------
+            Sinopse: A história de Alan Turing, 
+            um matemático que ajudou a decifrar os códigos de 
+            guerra nazistas e desempenhou um papel crucial na vitória dos Aliados.
+                                     
+   
+            Título: O Menino do Pijama Listrado (2008)
+            --------------------------------------------------------------------------------------
+            Sinopse: Um jovem garoto, filho de um oficial nazista, 
+            forma uma amizade inocente com um menino judeu preso em um campo de concentração, 
+            levando a uma trágica descoberta.
+                                     
+   
+            Título: O Pianista (2002)
+            --------------------------------------------------------------------------------------
+            Sinopse: A história de Władysław Szpilman, 
+            um pianista polonês judeu que sobrevive ao Holocausto em Varsóvia,
+            enfrentando enormes desafios e perdas pessoais.
+                                     
+    
+            Título: A Queda! As Últimas Horas de Hitler (2004)
+            --------------------------------------------------------------------------------------
+            Sinopse: Retrata os últimos dias de Adolf Hitler e a queda do Terceiro Reich 
+            em um drama que se passa em seu bunker durante o colapso de Berlim.
+    
+              ''')
             pass
         elif escolha == 16:
             pass
