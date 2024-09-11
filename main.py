@@ -7,7 +7,7 @@ def exibir_menu():
     print("5. Ficção Científica")
     print("6. Fantasia")
     print("7. Romance")
-    print("8. Terror")
+    print("8. Terror:")
     print("9. Suspense")
     print("10. Mistério")
     print("11. Documentário")
