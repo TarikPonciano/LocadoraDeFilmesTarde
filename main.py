@@ -30,7 +30,8 @@ def main():
         elif escolha == 2:
             pass
         elif escolha == 3:
-            print('''1. O Poderoso Chefão (1972)
+            print('''
+                    1. O Poderoso Chefão (1972)
                     2. A Lista de Schindler (1993)
                     3. A Noviça Rebelde (1965)
                     4. Forrest Gump (1994)
