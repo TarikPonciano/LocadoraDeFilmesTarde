@@ -136,7 +136,20 @@ def main():
 10 - It: A Coisa''')
             
         elif escolha == 9:
-            pass
+                print("\nFilmes de Suspense:")
+                print('''
+                1-Noite Passada em Sonho (2021)
+                2-Parasita (2019)
+                3-Paranormal Activity (2007)
+                4-Fuja (2021)
+                5-O Estranho que Nós Amamos (2017)
+                6-Um Lugar Silencioso (2018)
+                7-O Silêncio dos Inocentes (1991)
+                8-Coraline e o mundo Secreto (2009)
+                9-Corra! (2017)
+                10-Bird Box (2018)
+
+            ''')
         elif escolha == 10:
             print("1. Scooby doo")
             print("2. O Clube dos Cinco")
