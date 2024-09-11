@@ -28,7 +28,23 @@ def main():
         if escolha == 1:
             pass
         elif escolha == 2:
-            pass
+            filmes = ("Indiana Jones e os Caçadores da Arca Perdida(1981)", 
+                      "O Senhor dos Anéis: A Sociedade do Anel (2001)", 
+                      "Jurassic Park (1993)", 
+                      "Piratas do Caribe: A Maldição do Pérola Negra (2003)",
+                      "A Múmia (1999)", 
+                      "As Aventuras de Tintim (2011)",
+                      "O Rei Leão (1994)",
+                      "Mad Max: Estrada da Fúria (2015)",
+                      "Jumanji: Bem-vindo à Selva (2017)",
+                      "O Labirinto do Fauno (2006)",
+                      )
+            c = 1
+            for filme in filmes:
+                print(c ,end=" ")
+                print(filme)
+                c += 1
+
         elif escolha == 3:
             pass
         elif escolha == 4:
