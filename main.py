@@ -62,7 +62,18 @@ def main():
                 "Título: To All the Boys I've Loved Before\nAno: 2018\nDescrição: Uma comédia romântica sobre uma jovem cujas cartas de amor secretas são acidentalmente enviadas para todos os seus antigos crushes.\n"
             )
         elif escolha == 8:
-            pass
+
+            print(f'''1 - O Exorcista
+2 - Psicose
+3 - O Iluminado
+4 - A Bruxa de Blair
+5 - O Massacre da Serra Elétrica
+6 - Hereditário
+7 - Atividade Paranormal
+8 - O Bebê de Rosemary
+9 - A Noite dos Mortos-Vivos
+10 - It: A Coisa''')
+            
         elif escolha == 9:
             pass
         elif escolha == 10:
