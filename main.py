@@ -48,7 +48,17 @@ def main():
         elif escolha == 11:
             pass
         elif escolha == 12:
-            pass
+            print ('''"Toy Story" (1995)
+                    "O Rei Leão" (1994)
+                    "Procurando Nemo" (2003)
+                    "Shrek" (2001)
+                    "Frozen" (2013)
+                    "Os Incríveis" (2004)
+                    "Divertida Mente" (2015)
+                    "Moana" (2016)
+                    "Zootopia" (2016)
+                    "Detona Ralph" (2012)''')      
+            pass   
         elif escolha == 13:
             pass
         elif escolha == 14:
