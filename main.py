@@ -38,7 +38,18 @@ def main():
         elif escolha == 6:
             pass
         elif escolha == 7:
-            pass
+                 print(
+                "Título: A Walk to Remember\nAno: 2002\nDescrição: A história de um jovem que se apaixona por uma garota com uma condição médica terminal.\n"
+                "Título: The Notebook\nAno: 2004\nDescrição: Um romance épico que narra a história de um casal cuja paixão supera as dificuldades ao longo dos anos.\n"
+                "Título: Pride and Prejudice\nAno: 2005\nDescrição: Adaptação do clássico de Jane Austen, sobre uma jovem que se apaixona por um homem que parece ser seu oposto.\n"
+                "Título: La La Land\nAno: 2016\nDescrição: Um musical moderno sobre a história de amor entre uma aspirante a atriz e um músico jazz.\n"
+                "Título: Titanic\nAno: 1997\nDescrição: Um romance dramático ambientado a bordo do infame navio, focando em um amor proibido entre duas pessoas de diferentes classes sociais.\n"
+                "Título: Eternal Sunshine of the Spotless Mind\nAno: 2004\nDescrição: Um filme que explora o amor e a memória, onde um casal se submete a um procedimento para apagar as memórias de seu relacionamento.\n"
+                "Título: Notting Hill\nAno: 1999\nDescrição: A história de um proprietário de livraria que se apaixona por uma famosa atriz.\n"
+                "Título: Before Sunrise\nAno: 1995\nDescrição: Um romance que segue dois jovens que se encontram em um trem e passam uma noite mágica juntos em Viena.\n"
+                "Título: 10 Things I Hate About You\nAno: 1999\nDescrição: Uma adaptação moderna de 'A Megera Domada' de Shakespeare, com uma história de amor entre adolescentes no ensino médio.\n"
+                "Título: To All the Boys I've Loved Before\nAno: 2018\nDescrição: Uma comédia romântica sobre uma jovem cujas cartas de amor secretas são acidentalmente enviadas para todos os seus antigos crushes.\n"
+            )
         elif escolha == 8:
             pass
         elif escolha == 9:
