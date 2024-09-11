@@ -23,10 +23,18 @@ def main():
     try:
         escolha = int(input("Digite o número do gênero escolhido: "))
         
-        #Faça modificações apenas na seção do seu número
-        #Faça o print de 10 filmes do gênero selecionado
         if escolha == 1:
-            pass
+            print('Mad Max: Estrada da Fúria')
+            print('John Wick')
+            print('Duro de Matar')
+            print('O Exterminador do Futuro')
+            print('Gladiador')
+            print('Velocidade Máxima')
+            print('O Protetor')
+            print('Missão: Impossível - Fallout')
+            print('Kingsman: Serviço Secreto')
+            print('Velocidade Máxima 2: Cruzeiro Total')
+        
         elif escolha == 2:
             pass
         elif escolha == 3:
@@ -59,9 +67,7 @@ def main():
             pass
         else:
             print("Gênero inválido!")
-        
-        
-    
+
     except ValueError:
         print("Entrada inválida. Por favor, digite um número.")
 
