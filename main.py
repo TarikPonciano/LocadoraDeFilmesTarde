@@ -38,7 +38,17 @@ def main():
         elif escolha == 2:
             pass
         elif escolha == 3:
-            pass
+            print('''
+                    1. O Poderoso Chefão (1972)
+                    2. A Lista de Schindler (1993)
+                    3. A Noviça Rebelde (1965)
+                    4. Forrest Gump (1994)
+                    5. O Senhor dos Anéis: O Retorno do Rei (2003)
+                    6. Pulp Fiction (1994)
+                    7. O Clube da Luta (1999)
+                    8. O Grande Lebowski (1998)
+                    9. Matrix (1999)
+                    10. A Origem (2010)''')
         elif escolha == 4:
             drama = ['Sociedade dos Poetas Mortos', 'Mãos Talentosas', 'O Nome da Rosa', 'Gran Torino', 'Forrest Gump', 'Coração Valente', 'Shawshank Redemption', 'Gênio Indomável']
             for i in drama:
