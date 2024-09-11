@@ -71,7 +71,28 @@ def main():
                 print(i)
             pass
         elif escolha == 5:
-            pass
+            print('''
+1.  Blade Runner (1982) - Um clássico de Ridley Scott que explora temas de identidade e humanidade em um futuro distópico.
+
+2.  2001: A Space Odyssey (1968) - Dirigido por Stanley Kubrick, este épico é conhecido por sua visão inovadora sobre a exploração espacial e a inteligência artificial.
+
+3.  Matrix (1999) - Um marco no gênero, com uma trama que questiona a natureza da realidade e apresenta cenas de ação icônicas.
+
+4.  Interstellar (2014) - Dirigido por Christopher Nolan, combina uma história emocionante com conceitos complexos sobre espaço e tempo.
+
+5.  Ex Machina (2014) - Um thriller psicológico que aborda a inteligência artificial e a ética em torno dela.
+
+6.  Inception (2010) - Também de Christopher Nolan, mistura sonhos e realidade de maneira engenhosa e visualmente impressionante.
+
+7.  O Exterminador do Futuro (1984) - Um filme de James Cameron que mistura ação e ficção científica com a ideia de máquinas do futuro enviadas ao passado.
+
+8.  O Hospedeiro (2006) - Um filme sul-coreano que combina ficção científica com horror, sobre um monstro mutante que ameaça uma família.
+
+9.  Contato (1997) - Baseado no livro de Carl Sagan, este filme explora a possibilidade de contato com civilizações alienígenas.
+
+10. Gattaca (1997) - Um thriller que examina um futuro onde a engenharia genética determina o valor e o potencial das pessoas.
+''')
+
         elif escolha == 6:
             pass
         elif escolha == 7:
