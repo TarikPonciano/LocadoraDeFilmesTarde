@@ -50,6 +50,19 @@ def main():
         elif escolha == 12:
             pass
         elif escolha == 13:
+            print('''
+                1 -  Encanto
+                2 -  O Estranho Mundo de Jack
+                3 -  Frozen
+                4 -  Os Miseráveis
+                5 -  Sweeney Todd o Barbeiro Demoníaco da Rua Fleet
+                6 -  High School Musical
+                7 -  Tick, Tick...Boom
+                8 -  A Bela e a Fera
+                9 -  A Princesa e o Sapo
+                10 - O Fantasma da Ópera 
+                  
+                  ''')
             pass
         elif escolha == 14:
             pass
