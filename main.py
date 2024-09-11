@@ -53,7 +53,7 @@ def main():
             print("7. Memento")
             print("8. Briquedo Asass")
             print("9. Knives Out: Entre Facas e Segredos 2019")
-            print("10. A Garota no Trem")
+            print("10. A Garota no Treem")
         elif escolha == 11:
             pass
         elif escolha == 12:
